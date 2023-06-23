@@ -9,8 +9,8 @@ import requests
 api = 'https://api.telegram.org/bot5665543233:AAHKfv8CMBo1xP01ruZ6FsM_aPMVzunuMIg/'
 send_command = 'sendMessage'
 
-gayboi = '1702020451'
-ahbeng = '319504714'
+junonn = '1702020451'
+fano = '319504714'
 suechi= '751526176'
 kx='1032882671'
 
